@@ -1,0 +1,8 @@
+\subsubsection parameters ROS parameters
+
+Reads and maintains the following parameters on the ROS server
+
+- \b "~marker_size" : \b [double] Size of the marker (m) min: 0.1, default: 0.143, max: 0.5
+- \b "~delta_width_qr_center" : \b [double] width increment from target center to qr center (m) min: 0.0, default: 0.4065, max: 1.0
+- \b "~delta_height_qr_center" : \b [double] height increment from target center to qr center (m) min: 0.0, default: 0.2795, max: 1.0
+

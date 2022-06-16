@@ -1,0 +1,9 @@
+\subsubsection usage Usage
+\verbatim
+<node name="velo2cam_calibration" pkg="velo2cam_calibration" type="velo2cam_calibration">
+  <param name="marker_size" type="double" value="0.143" />
+  <param name="delta_width_qr_center" type="double" value="0.4065" />
+  <param name="delta_height_qr_center" type="double" value="0.2795" />
+</node>
+\endverbatim
+

@@ -1,0 +1,8 @@
+prefix=/home/gaetano/sensor_calib_ws/install
+
+Name: yaml_to_camera_info_pub
+Description: Description of yaml_to_camera_info_pub
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,15 @@
+\subsubsection usage Usage
+\verbatim
+<node name="velo2cam_calibration" pkg="velo2cam_calibration" type="velo2cam_calibration">
+  <param name="x" type="double" value="0.0" />
+  <param name="y" type="double" value="0.0" />
+  <param name="z" type="double" value="1.0" />
+  <param name="angle_threshold" type="double" value="0.55" />
+  <param name="circle_radius" type="double" value="0.0825" />
+  <param name="passthrough_radius_min" type="double" value="1.0" />
+  <param name="passthrough_radius_max" type="double" value="6.0" />
+  <param name="centroid_distance_min" type="double" value="0.15" />
+  <param name="centroid_distance_max" type="double" value="0.8" />
+</node>
+\endverbatim
+

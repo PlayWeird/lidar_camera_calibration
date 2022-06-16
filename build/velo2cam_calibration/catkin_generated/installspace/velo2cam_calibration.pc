@@ -1,0 +1,8 @@
+prefix=/home/gaetano/sensor_calib_ws/install
+
+Name: velo2cam_calibration
+Description: Description of velo2cam_calibration
+Version: 1.0.1
+Cflags: -I${prefix}/include -I/usr/include
+Libs: -L${prefix}/lib /usr/lib/x86_64-linux-gnu/libtinyxml.so
+Requires: 

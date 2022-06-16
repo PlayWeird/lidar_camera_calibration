@@ -1,0 +1,7 @@
+\subsubsection usage Usage
+\verbatim
+<node name="velo2cam_calibration" pkg="velo2cam_calibration" type="velo2cam_calibration">
+  <param name="threshold" type="double" value="0.1" />
+</node>
+\endverbatim
+

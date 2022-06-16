@@ -1,0 +1,2 @@
+velo2cam_calibration:velodyne/velodyne:velodyne/velodyne_driver:velodyne/velodyne_laserscan:velodyne/velodyne_msgs:velodyne/velodyne_pcl:velodyne/velodyne_pointcloud:yaml_to_camera_info_pub
+-DCATKIN_DEVEL_PREFIX=/home/gaetano/sensor_calib_ws/devel -DCMAKE_INSTALL_PREFIX=/home/gaetano/sensor_calib_ws/install -G Unix Makefiles

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/gaetano/sensor_calib_ws/install/setup.sh
